@@ -127,6 +127,17 @@
             <div class="position">Internship</div>
         </div>
     </section>
+<section id="publications">
+    <h2>Publications</h2>
+    <div class="publication-item">
+        <div class="date">2025</div>
+        <div class="publication-content">
+            <div class="paper-title">A Lightweight Dual-Stream Attention Network for Real-Time Landslide Monitoring in Multi-Modal Remote Sensing Imagery</div>
+            <div class="paper-authors">Pooja Dhayal, Pradeep Singh, Kanishk Sharma, Samarpita Sarkar, Dhani Ram Rajak, Alok Bhardwaj and Balasubramanian Raman</div>
+            <div class="paper-journal">Remote Sensing Applications: Society and Environment (Elsevier), 40, pp. 101732, 2025</div>
+        </div>
+    </div>
+</section>
 
     <footer>
         <p>© 2024 Pooja Dhayal | Last updated: June 2024</p>

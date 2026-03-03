@@ -127,7 +127,8 @@
             <div class="position">Internship</div>
         </div>
     </section>
-<section id="publications">
+    
+<section id="Publications">
     <h2>Publications</h2>
     <div class="publication-item">
         <div class="date">2025</div>
@@ -139,8 +140,8 @@
     </div>
 </section>
 
-    <footer>
-        <p>© 2024 Pooja Dhayal | Last updated: June 2024</p>
-    </footer>
+<footer>
+    <p>© 2025 Pooja Dhayal | Last updated: March 2026</p>
+</footer>
 </body>
 </html>
